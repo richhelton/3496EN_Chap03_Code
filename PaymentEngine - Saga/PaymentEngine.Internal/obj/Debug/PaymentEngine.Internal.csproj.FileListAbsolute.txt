@@ -1,0 +1,10 @@
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\bin\Debug\PaymentEngine.Internal.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\bin\Debug\PaymentEngine.Internal.pdb
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\bin\Debug\NServiceBus.Core.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\bin\Debug\NServiceBus.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\bin\Debug\NServiceBus.pdb
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\bin\Debug\NServiceBus.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\bin\Debug\NServiceBus.Core.pdb
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\bin\Debug\NServiceBus.Core.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\obj\Debug\PaymentEngine.Internal.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\obj\Debug\PaymentEngine.Internal.pdb
